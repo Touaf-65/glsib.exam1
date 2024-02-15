@@ -1,6 +1,6 @@
 class AppImages{
   //Logo
-  //static const String name = "assets/images/.....";
+  static const String logo = "assets/images/iai.png";
 
 
 }
